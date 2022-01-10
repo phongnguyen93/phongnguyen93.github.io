@@ -1,5 +1,4 @@
 baseURL = 'https://phongnguyen93.github.io/phongnt.dev/'
-languageCode = 'en-us'
 title = 'Phong Nguyen'
 theme = "fuji"
 hasCJKLanguage = true
