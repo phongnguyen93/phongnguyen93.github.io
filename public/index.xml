@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phong Nguyen</title>
+    <link>https://phongnguyen93.github.io/phongnt.dev/</link>
+    <description>Recent content on Phong Nguyen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://phongnguyen93.github.io/phongnt.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Phong Nguyen</title>
+      <link>https://phongnguyen93.github.io/phongnt.dev/</link>
+      <pubDate>Tue, 11 Jan 2022 00:09:10 +0700</pubDate>
+      
+      <guid>https://phongnguyen93.github.io/phongnt.dev/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
