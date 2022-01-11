@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://phongnguyen93.github.io/sitemap.xml
+Sitemap: http://phongnt.dev/sitemap.xml
