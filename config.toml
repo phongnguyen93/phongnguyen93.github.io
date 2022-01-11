@@ -1,4 +1,4 @@
-baseURL = 'http://phongnt.dev/'
+baseURL = 'https://phongnt.dev/'
 title = 'Phong Nguyen'
 theme = "fuji"
 hasCJKLanguage = true
